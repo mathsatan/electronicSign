@@ -1,0 +1,3 @@
+keytool -genkey -alias alias2 -keyalg RSA -keystore C:\temp\ks2.jks -keysize 2048
+
+keytool -export -alias alias2 -file C:\temp\cert2.crt -keystore C:\temp\ks2.jks -storepass password

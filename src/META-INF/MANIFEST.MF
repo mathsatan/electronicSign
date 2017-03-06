@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: jce-jdk13-151.jar itextpdf-5.5.4.jar bcprov-jdk15on-151.ja
+ r itext-pdfa-5.5.4.jar bcprov-ext-jdk15on-151.jar itext-xtra-5.5.4.ja
+ r bcpkix-jdk15on-151.jar
+Main-Class: Main
+

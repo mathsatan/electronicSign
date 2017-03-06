@@ -1,0 +1,12 @@
+Signature name: first
+Signature covers whole document: false
+Document revision: 1 of 2
+Subject: {ST=[d], C=[e], OU=[a], CN=[Max], L=[c], O=[b]}
+Revision modified: false
+Certificates verified against the KeyStore
+Signature name: second
+Signature covers whole document: true
+Document revision: 2 of 2
+Subject: {ST=[e], C=[f], OU=[b], CN=[a], L=[d], O=[c]}
+Revision modified: false
+Certificates verified against the KeyStore
